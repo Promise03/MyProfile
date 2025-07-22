@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body{
+  overflow-x: hidden;
+} 
+.home{
+  background-image: url(../../assets/BG.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  /* border: 2px solid ; */
+}
+
+.wat{
+  border-left: 4px solid #A53DFF;
+}
+.input{
+  border-bottom: 1px solid;
+}
+
+.input-active{
+  border-bottom: 1px solid #A53DFF;
+}
+.pro{
+  border: 1px solid #f6f5f7 ;
+}
